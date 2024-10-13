@@ -1,0 +1,4 @@
+torchvision
+lightning
+torch
+lightning[extra] 
